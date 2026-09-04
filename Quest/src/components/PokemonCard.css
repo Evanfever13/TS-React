@@ -1,0 +1,31 @@
+.pokemon {
+  width: 200px;
+  padding: 1rem;
+  background-color: lightblue;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px gray;
+  color: white;
+  font-size: 1.6rem;
+  text-align: center;
+  text-shadow: 0px 0px 5px gray;
+}
+
+#bulbasaur {
+    color:rgb(9, 144, 99)
+}
+
+#charmander {
+    color:rgb(209, 141, 39)
+}
+
+#squirtle {
+    color:rgb(111, 194, 207)
+}
+
+#pikachu {
+    color:rgb(255, 243, 5)
+}
+
+#mew {
+    color:rgb(197, 126, 181)
+}

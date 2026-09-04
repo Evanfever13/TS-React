@@ -1,5 +1,6 @@
 import { useState } from "react";
 
+
 import PokemonCard from "./components/PokemonCard";
 
 const pokemonList = [
