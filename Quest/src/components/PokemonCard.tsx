@@ -1,4 +1,12 @@
-function PokemonCard({ pokemon }) {
+import { useState } from "react";
+
+interface Pokemon {
+  name: string;
+  imgSrc?: string;
+}
+
+
+function PokemonCard({ pokemon }:{ pokemon : Pokemon}) {
   if (pokemon.imgSrc !== undefined){
     return (
     <>
